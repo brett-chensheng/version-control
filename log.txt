@@ -20,3 +20,6 @@ status: git add -> 缓存状态
 
 git branch v2.0
 >>>>>>> Stashed changes
+--------------
+
+commit
