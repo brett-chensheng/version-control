@@ -1,0 +1,22 @@
+<<<<<<< Updated upstream
+Switched to branch 'master'
+  (use "git branch --unset-upstream" to fixup)
+
+
+
+stash changes
+=======
+tmp file
+
+
+12:48:54.571: cd D:\IdeaProjects\version-control
+12:48:54.572: git add --ignore-errors -- log.txt
+
+
+status: git add -> 缓存状态
+
+
+----------------
+
+git branch v2.0
+>>>>>>> Stashed changes
